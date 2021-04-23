@@ -1,0 +1,12 @@
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.vbprojAssemblyReference.cache
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE_MIS.MDIParent.resources
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE_MIS.Resources.resources
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.vbproj.GenerateResource.cache
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.vbproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\bin\Debug\COLLEGE MIS.exe.config
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\bin\Debug\COLLEGE MIS.exe
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\bin\Debug\COLLEGE MIS.pdb
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\bin\Debug\COLLEGE MIS.xml
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.exe
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.xml
+C:\Users\user\Source\Repos\COLLEGE-MIS\COLLEGE MIS\obj\Debug\COLLEGE MIS.pdb
